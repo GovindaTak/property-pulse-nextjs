@@ -71,7 +71,7 @@ Users can browse, search, list, and manage properties while interacting with fea
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/property-pulse-nextjs.git
+git clone https://github.com/GovindaTak/property-pulse-nextjs.git
 
 # 2. Navigate to the project directory
 cd property-pulse-nextjs
